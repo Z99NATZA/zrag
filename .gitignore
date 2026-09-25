@@ -1,2 +1,3 @@
 /target
 main_agent.rs
+/.fastembed_cache
